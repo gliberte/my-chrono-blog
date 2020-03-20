@@ -1,11 +1,11 @@
 {
-  "name": "chronoblog",
+  "name": "luissolano-chrono-site",
   "version": "1.15.0",
   "private": true,
-  "description": "gatsby-starter-chronoblog",
+  "description": "My Personal Web Site",
   "keywords": [],
   "license": "MIT",
-  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "author": "Luis Solano",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",

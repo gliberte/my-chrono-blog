@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Luis Solano',
     siteDescription: 'This is my personal web site',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://luissolano-chrono-site.netlify.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
