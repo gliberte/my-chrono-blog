@@ -9,7 +9,7 @@
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "start": "gatsby develop"
+    "dev": "gatsby develop"
   },
   "dependencies": {
     "gatsby": "^2.18.7",
