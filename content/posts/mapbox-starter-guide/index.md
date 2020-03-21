@@ -193,5 +193,9 @@ If we look in the browser, at this moment the map should show the new loaded dat
 
 The result will be the same. In my case, the type of geographic layer that I created in geojson.io is lines.
 
+I have always liked maps and cartography in general. Maps provide context to our lives, and a sense of belonging and direction. A map can mean the difference between life and death for an explorer or a sailor. What are maps for the rest of us?
 
+Businesses need maps to analyze their sales by region. Biologists require digital maps to keep a georeferenced record of the animal and plant species they study, their migratory movements, etc. The study of outbreaks of epidemics, economic inequality, natural resources, etc. Countless are the applications. As an application developer, what tools are available to create applications with digital maps? Can we create an application that competes with Google Maps? Or that it does what Google Map does not do?
 
+<Embed src="https://www.youtube.com/embed/dSdbeIhtrUM"/>
+Crear datos geográficos es muy sencillo con geojson.io. En el video demuestro lo fácil que es utilizar su interface. Otra herramienta que estoy probando durante el video es react-color-tools. Anteriormente usaba React Color; pero esta nueva dependencia agrega características muy útiles.
